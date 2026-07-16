@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: CellarcountTests
-      - path: Cellarcount.storekit
     dependencies:
       - target: Cellarcount
     settings:
